@@ -7,7 +7,7 @@ import 'react-tabs/style/react-tabs.css';
 const roadmap = () => {
   return (
     <div className=''>
-      <nav className="bg-slate-700 p-4 flex justify-between items-center rounded-lg">
+      <nav className="bg-slate-700 p-4 flex justify-between items-center">
       <div className="flex flex-col items-center">
         <button
           className="flex flex-row justify-between items-center text-white bg-transparent border-none mr-2 hover:underline focus:outline-none"
